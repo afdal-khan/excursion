@@ -19,4 +19,24 @@ a {
     
 }
 
+.copyright {
+    color: gray;
+    text-align: right;
+}
 
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    font-family: Verdana;
+}
+
+h4 {
+    font-size: 21px;
+    color: gray;
+}
+
+.icon {
+    text-align: center;
+}
